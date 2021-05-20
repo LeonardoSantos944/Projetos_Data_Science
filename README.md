@@ -17,6 +17,7 @@ Atuamente aluno  de Gestão da tecnologia da Informação na instituição Está
 
 ## Projetos :
 
+Análise  dos dados do Arbnb na cidade de Amsterdã - https://bityli.com/vJNgI
 
 
 
