@@ -9,7 +9,7 @@ Meu portfolio de projetos
 
 # Leonardo Santos
 
-Atuamente aluno  de Gestão da tecnologia da Informação na instituição Estácio de Sá, aluno do  Técnico em  Informática do Instituto Federal da Paraíba(IFPB), apaixonado por dados e  Data Science.
+Técnico em Informática pelo IFPB, aluno  de Gestão da tecnologia da Informação na instituição Estácio de Sá, aluno do Data Science na Prática, apaixonado por dados e  Data Science.
 
 **Links:**
 
