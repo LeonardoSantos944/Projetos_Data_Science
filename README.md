@@ -17,7 +17,7 @@ Técnico em Informática pelo IFPB, aluno  de Gestão da tecnologia da Informaç
 
 ## Projetos :
 
-Análise  dos dados do Arbnb na cidade de Amsterdã - https://bityli.com/vJNgI
+* Análise  dos dados do Arbnb na cidade de Amsterdã - https://bityli.com/vJNgI
 
 
 
