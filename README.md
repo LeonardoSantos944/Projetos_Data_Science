@@ -15,6 +15,7 @@ Técnico em Informática pelo IFPB, aluno  de Gestão da tecnologia da Informaç
 
 [LinkedIn](https://www.linkedin.com/in/leonardo-santos-b57983118/)
 
+
 ## Projetos :
 
 * Análise  dos dados do Arbnb na cidade de Amsterdã - 
